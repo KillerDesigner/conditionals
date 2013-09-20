@@ -1,6 +1,6 @@
-print "what borough do you live in? "
-borough = gets.chomp.downcase
-case borough
+print "what neighborhood do you live in? "
+neighborhood = gets.chomp.downcase
+case neighborhood
   when "portrero hill"
     puts "what a view!"
   when "mission"

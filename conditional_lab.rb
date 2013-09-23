@@ -1,7 +1,14 @@
 # in irb, evaluate the following:
 4 < 5
-4 == 5
+4 == 5  # note the == is different from =
+4 != 5
 1 <= 2
+
+0 > 1
+1 > 1
+1 >= 1
+
+
 
 blue = true
 red = false
